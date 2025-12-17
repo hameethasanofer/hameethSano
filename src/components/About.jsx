@@ -36,7 +36,7 @@ const About = () => {
                             {/* Floating Name Tag */}
                             <div className="absolute bottom-6 left-6 z-20">
                                 <h3 className="text-white font-bold text-2xl">Sano.</h3>
-                                <p className="text-accent text-sm tracking-widest uppercase">Senior Engineer</p>
+                                <p className="text-accent text-sm tracking-widest uppercase">full stack developer</p>
                             </div>
                         </div>
 
@@ -49,7 +49,7 @@ const About = () => {
                             <div className="flex items-center gap-3">
                                 <div className="p-2 bg-purple-500/20 rounded-lg text-purple-300"><Briefcase size={20} /></div>
                                 <div>
-                                    <div className="text-white font-bold">5+ Years</div>
+                                    <div className="text-white font-bold">2+ Years</div>
                                     <div className="text-xs text-slate-400">Experience</div>
                                 </div>
                             </div>
